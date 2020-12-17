@@ -1,0 +1,21 @@
+.block-slider-description {
+    bottom: 50% !important;
+}
+.navbar{
+    width: 100%;
+    position: absolute !important;
+    z-index:1 ;
+    background: transparent;
+}
+#color-logo{
+    color: white;
+
+}
+.carousel-indicators svg{
+    width: 40px !important;
+
+}
+.carousel-indicators button{
+    border-radius:50%;
+    margin-bottom: 2% !important;
+}
