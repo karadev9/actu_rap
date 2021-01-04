@@ -19,3 +19,9 @@
     border-radius:50%;
     margin-bottom: 2% !important;
 }
+
+.cadre{
+    background-color: rebeccapurple;
+    padding: 30px;
+    inline-size: auto;
+}
